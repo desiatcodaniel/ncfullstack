@@ -31,3 +31,7 @@ footer {
   padding: 50px 0;
   border-bottom: 1px ridge;
 }
+
+.navbar {
+  background-color: #901cad;
+}
