@@ -6,3 +6,4 @@ workshop-assignments
 /node_modules
 
 .prettierrc
+dist
