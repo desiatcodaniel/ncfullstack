@@ -43,6 +43,17 @@ header h2 {
   background-image: linear-gradient(#cec8ff, white);
   padding: 20px 0; }
 
+/* MODAL HEADER CHALLENGE */
+#reserveModal .modal-header {
+  background-color: #17a2b8; }
+  #reserveModal .modal-header h2 {
+    color: white; }
+
+#loginModal .modal-header {
+  background-color: #901cad; }
+  #loginModal .modal-header h2 {
+    color: white; }
+
 /* aboutus*/
 .tab-content {
   border: 1px solid #ddd;
